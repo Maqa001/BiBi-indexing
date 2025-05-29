@@ -1,7 +1,7 @@
-# BiBi-indexing
+# BiBi indexing
 BiBi Indexing is a global academic indexing platform dedicated to increasing the visibility, credibility, and impact of scholarly journals across various disciplines. With a focus on transparency, accessibility, and quality, BiBi Indexing provides a reliable environment for academic journals to reach a wider research audience.
 
-🔍 Purpose and Mission
+# 🔍 Purpose and Mission
 The mission of BiBi Indexing is to support academic excellence by offering a robust indexing service that connects high-quality journals with researchers, librarians, and institutions worldwide. Our goal is to help scholarly publications improve their discoverability and enhance their academic reputation.
 
 ✅ Features of BiBi Indexing
