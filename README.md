@@ -7,22 +7,16 @@ The mission of BiBi Indexing is to support academic excellence by offering a rob
 ✅ Features of BiBi Indexing
 Indexing of peer-reviewed journals in humanities, social sciences, natural sciences, engineering, medicine, and more
 
-Multilingual support for journals published in various languages
-
-Free and open access to indexed content for global research communities
-
-Strict evaluation criteria to ensure the quality and ethical standards of indexed journals
-
-Digital preservation and metadata integration for long-term accessibility
+* Multilingual support for journals published in various languages
+* Free and open access to indexed content for global research communities
+* Strict evaluation criteria to ensure the quality and ethical standards of indexed journals
+* Digital preservation and metadata integration for long-term accessibility
 
 🏛️ Benefits for Journals
-Improved visibility in search engines and academic databases
-
-Increased citation potential through greater exposure
-
-Inclusion in a respected and structured academic indexing ecosystem
-
-Eligibility for yearly BiBi Excellence Ranking based on editorial quality and research impact
+* Improved visibility in search engines and academic databases
+* Increased citation potential through greater exposure
+* Inclusion in a respected and structured academic indexing ecosystem
+* Eligibility for yearly BiBi Excellence Ranking based on editorial quality and research impact
 
 📥 How to Apply
 Journals seeking inclusion in BiBi Indexing can submit an application through our official website. The editorial board of BiBi Indexing reviews each application based on criteria such as peer-review policy, publication ethics, editorial board transparency, and publishing frequency.
