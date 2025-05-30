@@ -15,7 +15,7 @@ This GitHub issue will include:
 
 You can follow the progress of your application by checking the GitHub issue link provided to you via email after submission.
 
-3. Communication and Updates
+# 3. Communication and Updates
 You will be notified by email about:
 
 * Confirmation of submission
