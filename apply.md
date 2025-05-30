@@ -23,3 +23,5 @@ You will be notified by email about:
 * Final indexing decision
 
 If you do not receive a GitHub link or any response within 2–3 weeks, feel free to follow up by contacting us at .
+
+Note: After successful processing and acceptance into the index, your journal and all related information will be publicly listed on the official BIBI Indexing GitHub page. This ensures transparency and allows others to access and verify indexed journals.  
