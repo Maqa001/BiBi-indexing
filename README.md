@@ -19,4 +19,4 @@ Indexing of peer-reviewed journals in humanities, social sciences, natural scien
 * Eligibility for yearly BiBi Excellence Ranking based on editorial quality and research impact
 
 # 📥 How to Apply
-Journals seeking inclusion in BiBi Indexing can submit an application through our official website. The editorial board of BiBi Indexing reviews each application based on criteria such as peer-review policy, publication ethics, editorial board transparency, and publishing frequency.
+Journals seeking inclusion in BiBi Indexing can submit an application. The editorial board of BiBi Indexing reviews each application based on criteria such as peer-review policy, publication ethics, editorial board transparency, and publishing frequency. Go to following URL and follow instcution for indexing. https://github.com/Maqa001/BiBi-indexing/blob/main/apply.md
