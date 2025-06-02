@@ -1,16 +1,18 @@
 # 📌 What Is a BiBi ID?
-BiBi ID is a unique identifier assigned to each academic journal that is indexed in the BiBi Indexing database. It serves as a standardized reference number for tracking, listing, and verifying journals accepted into the BiBi indexing system.
+BiBi ID is a unique identifier assigned to each academic journal that is indexed in the BiBi Indexing database. It serves as a standardized reference number for tracking, listing, and verifying journals accepted into the BiBi indexing system. Each journal is assigned a unique BiBi Indexing ID — a standardized 7-digit alphanumeric code designed to uniquely identify the journal within the BiBi database.
 
-# 🧾 Purpose of the BiBi ID
-The BiBi ID was created to:
+# 🧾 Purpose and Importance:
 
-* Ensure unique identification of every indexed journal
+* The BiBi Indexing ID acts as an official code verifying that the journal is recognized and indexed by BiBi.
+* This unique identifier promotes transparency and trust, helping authors, readers, libraries, and indexing services to confirm the journal’s indexing status quickly and reliably.
+* It supports proper cataloging and easy integration of journal metadata across multiple platforms and repositories.
 
-* Provide a clear and searchable reference code
+# 🧾 Usage Guidelines:
 
-* Help researchers, institutions, and libraries verify a journal's inclusion in the BiBi Index
+* The BiBi Indexing ID must be prominently displayed on the journal’s cover page and on the first page of every article published in the journal.
+* Additionally, the ID should be clearly visible on the journal’s official website, preferably on the homepage or in the "About" or "Indexing" sections.
+* Consistent usage of the BiBi ID in all official journal materials ensures the integrity of indexing records and assists in tracking citation and publication metrics.
 
-* Maintain transparent and traceable indexing records
 
 # 🧩 BiBi ID Format
 The BiBi ID follows a standardized format for easy identification:
