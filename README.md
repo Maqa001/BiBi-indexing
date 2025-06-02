@@ -18,5 +18,12 @@ Indexing of peer-reviewed journals in humanities, social sciences, natural scien
 * Inclusion in a respected and structured academic indexing ecosystem
 * Eligibility for yearly BiBi Excellence Ranking based on editorial quality and research impact
 
+# BiBi ID for Journals
+The BiBi ID is a unique identification code assigned to each journal indexed by the BiBi platform. This ID functions as an official reference number that verifies a journal’s inclusion in the BiBi indexing system.
+
+Journals are required to display their BiBi ID prominently on key materials such as the cover page, the first page of every article, and on their official website. Using the BiBi ID consistently helps ensure transparency, authenticity, and easy verification of the journal’s indexed status.
+
+The BiBi ID strengthens the journal’s credibility and facilitates accurate tracking and referencing within academic and research communities.
+
 # 📥 How to Apply
 Journals seeking inclusion in BiBi Indexing can submit an application. The editorial board of BiBi Indexing reviews each application based on criteria such as peer-review policy, publication ethics, editorial board transparency, and publishing frequency. Go to following URL and follow instcution for indexing. https://github.com/Maqa001/BiBi-indexing/blob/main/apply.md
