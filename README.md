@@ -25,7 +25,7 @@ Journals are required to display their BiBi ID prominently on key materials such
 
 The BiBi ID strengthens the journal’s credibility and facilitates accurate tracking and referencing within academic and research communities.
 
-For more information: 
+For more information: https://github.com/Maqa001/BiBi-indexing/blob/main/BiBi-ID.md
 
 # 📥 How to Apply
 Journals seeking inclusion in BiBi Indexing can submit an application. The editorial board of BiBi Indexing reviews each application based on criteria such as peer-review policy, publication ethics, editorial board transparency, and publishing frequency. Go to following URL and follow instcution for indexing. https://github.com/Maqa001/BiBi-indexing/blob/main/apply.md
