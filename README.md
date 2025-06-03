@@ -27,7 +27,8 @@ The BiBi ID strengthens the journal’s credibility and facilitates accurate tra
 
 For more information: https://github.com/Maqa001/BiBi-indexing/blob/main/BiBi-ID.md
 
-# 📊 After the successful completion of the indexing process in BiBi Indexing, the journal’s details—including its title, ISSN, publisher, indexing status, and other relevant metadata—will be automatically added to the designated Google Spreadsheet (Excel).
+# 📊 Automatic Journal Tracking via Sheets!
+After the successful completion of the indexing process in BiBi Indexing, the journal’s details—including its title, ISSN, publisher, indexing status, and other relevant metadata—will be automatically added to the designated Google Spreadsheet (Excel).
 
 You will be able to view, manage, and track your journal’s indexing status directly from this spreadsheet. This integration provides a convenient and transparent way to monitor the progress and visibility of your journal within the BiBi Indexing system.
 
