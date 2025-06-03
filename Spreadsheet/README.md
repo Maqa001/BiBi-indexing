@@ -20,7 +20,7 @@ Each journal entry includes the following fields:
 # 📊 Access the Spreadsheet
 You can view and download the indexed journal data using the link below:
 
-🔗 Open the Indexed Journals Spreadsheet
+[🔗 Open the Indexed Journals Spreadsheet](https://docs.google.com/spreadsheets/d/1GBoEaJaIs_m79RbTXnFSgQSN_ZEqhgfA1u5L1Zzbw84/edit?usp=sharing)
 
 The spreadsheet is updated regularly as new journals are accepted into the index.
 
