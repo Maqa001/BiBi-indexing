@@ -34,5 +34,7 @@ You will be able to view, manage, and track your journal’s indexing status dir
 
 Please note that it may take a few moments for the data to appear after the process is finalized. If your journal does not show up after a reasonable period, please contact the support team for assistance.
 
+URL for the Sheets is [here](https://docs.google.com/spreadsheets/d/1GBoEaJaIs_m79RbTXnFSgQSN_ZEqhgfA1u5L1Zzbw84/edit?usp=sharing).
+
 # 📥 How to Apply
 Journals seeking inclusion in BiBi Indexing can submit an application. The editorial board of BiBi Indexing reviews each application based on criteria such as peer-review policy, publication ethics, editorial board transparency, and publishing frequency. Go to following URL and follow instcution for indexing. https://github.com/Maqa001/BiBi-indexing/blob/main/apply.md
