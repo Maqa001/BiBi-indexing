@@ -27,5 +27,11 @@ The BiBi ID strengthens the journal’s credibility and facilitates accurate tra
 
 For more information: https://github.com/Maqa001/BiBi-indexing/blob/main/BiBi-ID.md
 
+# 📊 After the successful completion of the indexing process in BiBi Indexing, the journal’s details—including its title, ISSN, publisher, indexing status, and other relevant metadata—will be automatically added to the designated Google Spreadsheet (Excel).
+
+You will be able to view, manage, and track your journal’s indexing status directly from this spreadsheet. This integration provides a convenient and transparent way to monitor the progress and visibility of your journal within the BiBi Indexing system.
+
+Please note that it may take a few moments for the data to appear after the process is finalized. If your journal does not show up after a reasonable period, please contact the support team for assistance.
+
 # 📥 How to Apply
 Journals seeking inclusion in BiBi Indexing can submit an application. The editorial board of BiBi Indexing reviews each application based on criteria such as peer-review policy, publication ethics, editorial board transparency, and publishing frequency. Go to following URL and follow instcution for indexing. https://github.com/Maqa001/BiBi-indexing/blob/main/apply.md
